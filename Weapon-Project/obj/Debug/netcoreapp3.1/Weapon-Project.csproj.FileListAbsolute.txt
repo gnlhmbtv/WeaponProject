@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.exe
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.deps.json
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.runtimeconfig.json
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.runtimeconfig.dev.json
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.dll
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\bin\Debug\netcoreapp3.1\Weapon-Project.pdb
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.AssemblyInfo.cs
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.dll
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.pdb
+C:\Users\user\source\repos\Weapon-Project\Weapon-Project\obj\Debug\netcoreapp3.1\Weapon-Project.genruntimeconfig.cache
